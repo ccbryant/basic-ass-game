@@ -1,7 +1,9 @@
-.background    { background: rgb(119, 178, 168);
+.background    { background-image: url("..img/bg");
+		 background-size: 600px 450px;
+	         background: rgb(119, 178, 168);
                  table-layout: fixed;
                  border-spacing: 0;
-				 background-image: url("../img/bg.png");
+				 
 				}
 .background td { padding: 0;          }
 .lava          { background: rgb(24, 242, 24); }
